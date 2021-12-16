@@ -7,11 +7,89 @@ namespace IterationStatements
     {
         static void Main(string[] args)
         {
-                //TODO - Read each comment and complete its instruction
-                // like the example below
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
 
-                //Create a List called "numbers" - DONE!
-                var numbers = new List<int>();
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+            //for (int i = 0; i < 5; i++)
+            //   {
+            //       Console.WriteLine($"{i}");
+            //   }
+
+
+
+
+
+            //TODO - Read each comment and complete its instruction
+            // like the example below
+
+            //Create a List called "numbers" - DONE!
+            var numbers = new List<int>();
 
             //-----START HERE------------------------------------------
             //Create a variable of type int and name it num - Done!
